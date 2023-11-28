@@ -4,9 +4,9 @@
 
 
 ## Profile
-👩 정세인 <br>
-👶 1995.02.18 <br>
-📞 010-2428-3742 <br>
+👩 박천휘 <br>
+👶 1995.09.12 <br>
+📞 010-4136-6196 <br>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seinee114@gmail.com)](mailto:seinee114@gmail.com) <span><a href="https://spotty-alligator-d0a.notion.site/b5c2a4cd0d004e29b5dde7e98ce2ae09?pvs=4"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
 
