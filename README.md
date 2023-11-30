@@ -8,7 +8,7 @@
 👶 1995.09.12 <br>
 📞 010-4136-6196 <br>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cjsgnl1995@gmail.com)](mailto:cjsgnl1995@gmail.com) <span><a href="https://www.notion.so/00a1bd21ad4e4eaa804fc07840faa866"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cjsgnl1995@gmail.com)](mailto:cjsgnl1995@gmail.com) <span><a href="[https://www.notion.so/00a1bd21ad4e4eaa804fc07840faa86](https://atom-rifle-e46.notion.site/00a1bd21ad4e4eaa804fc07840faa866)6"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
 
 
 
