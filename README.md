@@ -29,9 +29,7 @@
 
 
 
-![cheonhwi's github stats](https://github-readme-stats.vercel.app/api?username=parkcheonhwi&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkcheonhwi&layout=compact)
 
 
 
