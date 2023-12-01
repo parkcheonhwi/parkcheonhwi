@@ -29,10 +29,7 @@
 
 
 
+[![cheonhwi's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkcheonhwi)](https://github.com/parkcheonhwi/github-readme-stats)
 
 
-<div align=left>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkcheonhwi&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=parkcheonhwi&show_icons=true">
-</div>
-<br>
+
